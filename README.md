@@ -16,9 +16,9 @@ This project aims to investigate the impact of smoking on insurance charges by c
 
 ## Repository Contents
 
-- `data.csv`: The dataset used for the analysis, including information on insurance charges, smoking status, demographic details, and other relevant variables.
+- `insurance.csv`: The dataset used for the analysis, including information on insurance charges, smoking status, demographic details, and other relevant variables.
 - `analysis.ipynb`: A Jupyter Notebook containing the code and steps for data preprocessing, analysis, and visualization.
-- `output.csv`: The CSV file generated for plotting the histogram of insurance charges.
+- `smoker.csv and non_smoker.csv`: The CSV file generated for plotting the histogram of insurance charges.
 - `README.md`: The current file, providing an overview of the project, its goals, and analytical steps.
 
 ## Instructions
@@ -27,7 +27,6 @@ This project aims to investigate the impact of smoking on insurance charges by c
 2. Ensure you have the necessary dependencies installed (e.g., Python, Jupyter Notebook).
 3. Open the `analysis.ipynb` notebook and follow the instructions to run the code.
 4. Explore the notebook to understand the analytical steps taken, including data preprocessing, visualization, and calculations.
-5. Use the generated `output.csv` file to plot a histogram of insurance charges, visualizing the distribution for smokers and non-smokers.
 
 Feel free to modify the code or dataset according to your needs and conduct further analysis on the impact of smoking on insurance charges. We encourage contributions and welcome suggestions for improvements.
 
